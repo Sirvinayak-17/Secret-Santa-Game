@@ -41,7 +41,7 @@ Step 4: Run the Project
 	•	last_year.csv
 	2.	Run 
  ```
-main.py script:
+python main.py
 ```
 
 Step 5: Run the Tests
