@@ -1,11 +1,10 @@
 # Secret Santa Project
 
 ## Introduction
-This project automates the Secret Santa gift exchange process for the company "Acme." It assigns a Secret Child to each employee, ensuring the following constraints:
+This project automates the Secret Santa gift exchange process for the company. It assigns a Secret Child to each employee, ensuring the following constraints:
 - An employee cannot be assigned themselves.
 - No employee is assigned the same Secret Child as the previous year.
 
-The program reads employee information and last year's assignments from CSV files, processes the data, and outputs a new set of assignments.
 
 ---
 
