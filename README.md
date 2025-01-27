@@ -28,3 +28,24 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+Step 3: Install the Dependencies
+
+Install the required libraries (listed in requirements.txt) into your environment:
+```
+pip install -r requirements.txt
+```
+
+Step 4: Run the Project
+	1.	Ensure the input files are in the data/ folder:
+	•	employees.csv
+	•	last_year.csv
+	2.	Run 
+ ```
+main.py script:
+```
+
+Step 5: Run the Tests
+```
+pytest tests/
+```
+ 
